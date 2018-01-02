@@ -16,7 +16,7 @@ CLASS zcl_test_tags IMPLEMENTATION.
 
   METHOD start.
 
-    cl_demo_output=>display(  ).
+    cl_demo_output=>display( |Bug fix| ).
 
   ENDMETHOD.
 
